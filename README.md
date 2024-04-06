@@ -28,6 +28,6 @@ In this part we will mainly convert those outcomes into Training Labels with 1 m
 
 ### Exploratory Analysis Using SQL
 
-
+Load the dataset into the corresponding table in a Db2 database
 
 ### Exploratory Analysis Using Pands and Matplotlib
