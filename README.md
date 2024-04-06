@@ -12,8 +12,14 @@ We will be provided with an overview of the problem and the tools we need to com
 
 2. Get data part 1 csv file
 
-3. Web - Scraping
+3. Web - Scraping: We will be performing web scraping to collect Falcon 9 historical launch records from a Wikipedia page titled List of Falcon 9 and Falcon Heavy launches
 
-4. 
+4. Get spacex_web_scraped.csv
 
-### 
+### Data Wrangling 
+
+We will perform some Exploratory Data Analysis (EDA) to find some patterns in the data and determine what would be the label for training supervised models.
+
+In this part we will mainly convert those outcomes into Training Labels with 1 means the booster successfully landed 0 means it was unsuccessful.
+
+## Task Two
