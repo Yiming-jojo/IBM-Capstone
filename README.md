@@ -8,7 +8,7 @@ Therefore if we can determine if the first stage will land, we can determine the
 
 We will be provided with an overview of the problem and the tools we need to complete the course.
 
-### Collecting data
+### Data Collecting
 
 1. Connect API
 
