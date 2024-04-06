@@ -4,7 +4,7 @@ In this capstone, we will predict if the Falcon 9 first stage will land successf
 
 Therefore if we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch. 
 
-## Task One
+## Task One: Introduction
 
 We will be provided with an overview of the problem and the tools we need to complete the course.
 
@@ -31,3 +31,5 @@ In this part we will mainly convert those outcomes into Training Labels with 1 m
 Load the dataset into the corresponding table in a Db2 database
 
 ### Exploratory Analysis Using Pands and Matplotlib
+
+Visualization by using `Panads` and `Matplotlib`
