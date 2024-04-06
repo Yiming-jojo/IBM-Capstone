@@ -8,8 +8,12 @@ We will be provided with an overview of the problem and the tools we need to com
 
 ### Collecting data
 
-Connect API
+1. Connect API
 
-Get data part 1 csv file
+2. Get data part 1 csv file
+
+3. Web - Scraping
+
+4. 
 
 ### 
