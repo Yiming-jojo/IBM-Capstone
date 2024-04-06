@@ -22,4 +22,10 @@ We will perform some Exploratory Data Analysis (EDA) to find some patterns in th
 
 In this part we will mainly convert those outcomes into Training Labels with 1 means the booster successfully landed 0 means it was unsuccessful.
 
-## Task Two
+## Task Two: Exploratory Data Analysis
+
+### Exploratory Analysis Using SQL
+
+
+
+### Exploratory Analysis Using Pands and Matplotlib
