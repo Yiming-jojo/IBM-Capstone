@@ -20,9 +20,11 @@ We will be provided with an overview of the problem and the tools we need to com
 
 ### Data Wrangling 
 
-We will perform some Exploratory Data Analysis (EDA) to find some patterns in the data and determine what would be the label for training supervised models.
+1. We will perform some Exploratory Data Analysis (EDA) to find some patterns in the data and determine what would be the label for training supervised models.
 
-In this part we will mainly convert those outcomes into Training Labels with 1 means the booster successfully landed 0 means it was unsuccessful.
+2. In this part we will mainly convert those outcomes into Training Labels with 1 means the booster successfully landed 0 means it was unsuccessful.
+
+3. Get data part 2. csv file
 
 ## Task Two: Exploratory Data Analysis
 
@@ -32,4 +34,20 @@ Load the dataset into the corresponding table in a Db2 database
 
 ### Exploratory Analysis Using Pands and Matplotlib
 
-Visualization by using `Panads` and `Matplotlib`
+1. Visualization by using `Panads` and `Matplotlib`
+
+2. Get data part 3 csv
+
+## Task Three: Interactive Visual Analytics and Dashboard
+
+### Launch Sites Locations Analysis with Folium
+
+The launch success rate may depend on many factors such as payload mass, orbit type, and so on. It may also depend on the location and proximities of a launch site
+
+**Goal:** Finding an optimal location for building a launch site certainly involves many factors and hopefully we could discover some of the factors by analyzing the existing launch site locations.
+
+1. Plot each launch site on the site map
+2. Mark the success/failed launches for each site on the map
+3. Calculate the distances between a launch site to its proximities
+
+### Dashboard
