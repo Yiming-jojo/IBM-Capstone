@@ -51,3 +51,20 @@ The launch success rate may depend on many factors such as payload mass, orbit t
 3. Calculate the distances between a launch site to its proximities
 
 ### Dashboard
+
+1. Add a Launch Site Drop-down Input Component
+2. Add a callback function to render success-pie-chart based on selected site dropdown
+3. Add a Range Slider to Select Payload
+4. Add a callback function to render the success-payload-scatter-chart scatter plot
+
+## Task Four: Predictive Analysis (Classification)
+
+Perform exploratory  Data Analysis and determine Training Labels
+
+*   create a column for the class
+*   Standardize the data
+*   Split into training data and test data
+
+Find best Hyperparameter for SVM, Classification Trees and Logistic Regression
+
+*   Find the method performs best using test data
